@@ -21,7 +21,7 @@ print("Sum of a="+ str(b))
 def sumList(list):
 	b=0
 	if len(list)==1:
-		return b+list[0]
+		return list[0]
 	else:
 		return b + list[0] + sumList(list[1:len(list)])
 	print("Sum of a="+ str(b))
