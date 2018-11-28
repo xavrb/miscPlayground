@@ -7,6 +7,9 @@ From: [Five programming problems every Software Engineer should be able to solve
 ## Problem 1
 
 Write three functions that compute the sum of the numbers in a given list using a for-loop, a while-loop, and recursion.
+My implementations:  
+* [Python](./src/python/1.py)  
+
 
 ## Problem 2
 
